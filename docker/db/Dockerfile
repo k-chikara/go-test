@@ -1,3 +1,1 @@
-FROM mysql/mysql-server:8.0.20
-
-# RUN touch /var/log/mysql/mysqld.log
+FROM mysql@sha256:dce31fcdd15aaedb5591aa89f19ec37cb79981af46511781fa41287d88ed0abd
